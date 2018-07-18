@@ -1,2 +1,0 @@
-# component-lib
-react component
