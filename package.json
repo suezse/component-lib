@@ -1,5 +1,5 @@
 {
-  "name": "component-sue",
+  "name": "test-comp",
   "version": "1.0.0",
   "description": "React component",
   "main": "build/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suezse/component-sue.git"
+    "url": "git+https://github.com/suezse/test-comp.git"
   },
   "author": "suezse <sue.zse@163.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/suezse/component-sue/issues"
+    "url": "https://github.com/suezse/test-comp/issues"
   },
-  "homepage": "https://github.com/suezse/component-sue#readme",
+  "homepage": "https://github.com/suezse/test-comp#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
